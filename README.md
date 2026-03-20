@@ -61,7 +61,7 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
 - Repeat Customers  
 - Loss Orders 
 
-(File: `[SQL Queries](sql/SQL_queries.sql)`)
+(File: `[SQL Queries](SQL_queries.sql)`)
 
 ---
 
