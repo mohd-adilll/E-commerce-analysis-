@@ -38,20 +38,22 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
 
 ---
 
-## 📊 Analysis Performed
+## 📊 Pivot Analysis
 
-### 1. State-wise Sales
-- Found which state generates highest revenue
+### 1. Ad Spend Analysis
+- Check Ad Spend in each state to see which states give more or less profit.
 
-### 2. Product Performance
+### 2. Product Profit Analysis
 - Identified top-selling and high-profit products
 
-### 3. Customer Analysis
-- Found top customers based on total spend
+### 3. RTO Count Analysis
+- Determine how many RTO (Return to Origin) orders happen out of total customers.
 
-### 4. RTO Analysis
-- Calculated RTO percentage
-- Identified loss due to returns
+### 4. Top Customer Spend
+- Identify which customer spent the most overall
+
+(File: [Excel](pivot_analysis.xlsx)
+(File: [ScreenShots](SQL_queries.sql)
 
 ---
 
