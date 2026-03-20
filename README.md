@@ -61,7 +61,7 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
 - Repeat Customers  
 - Loss Orders 
 
-(File: [`[([SQL_queries.sql]([https://github.com/mohd-adilll/E-commerce-analysis-/blob/267ada69951e267ef7a747397cae7c3445d5a6f3/SQL_queries.sql](https://raw.githubusercontent.com/mohd-adilll/E-commerce-analysis-/refs/heads/main/SQL_queries.sql)))](https://raw.githubusercontent.com/mohd-adilll/E-commerce-analysis-/refs/heads/main/SQL_queries.sql)`](https://raw.githubusercontent.com/mohd-adilll/E-commerce-analysis-/refs/heads/main/SQL_queries.sql)
+(File: [SQL Queries](SQL_queries.sql)
 
 ---
 
