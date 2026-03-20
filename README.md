@@ -58,8 +58,8 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
   (Screenshots: [RTO Count Analysis](pivot3.png)
   (Screenshots: [Top Customer Spend](pivot4.png)
 
-  <img src="images/pivot1.png" width="200"/> <img src="images/pivot2.png" width="200"/>  
-  <img src="images/pivot3.png" width="200"/> <img src="images/pivot4.png" width="200"/>
+  <img src="pivot1.png" width="200"/> <img src="pivot2.png" width="200"/>  
+  <img src="pivot3.png" width="200"/> <img src="pivot4.png" width="200"/>
 ---
 
 ## 💻 SQL Queries
