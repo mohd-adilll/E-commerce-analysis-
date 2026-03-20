@@ -56,11 +56,12 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
 ---
 
 ## 💻 SQL Queries
-- Total sales per state
-- Top customers
-- RTO count
+- Top State Revenue
+- Recent Daily Sales  
+- Repeat Customers  
+- Loss Orders 
 
-(File: `sql/queries.sql`)
+(File: `SQL_queries.sql`)
 
 ---
 
