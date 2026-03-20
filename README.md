@@ -52,8 +52,11 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
 ### 4. Top Customer Spend
 - Identify which customer spent the most overall
 
-(File: [Excel](pivot_analysis.xlsx)
-(File: [ScreenShots](SQL_queries.sql)
+- (File: [Excel_pivot_analysis](pivot_analysis.xlsx)
+- (Screenshots: [Ad Spend Analysis](pivot1.png)
+- (Screenshots: [Product Profit Analysis](pivot2.png)
+- (Screenshots: [RTO Count Analysis](pivot3.png)
+- (Screenshots: [Top Customer Spend](pivot4.png)
 
 ---
 
