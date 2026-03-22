@@ -95,16 +95,11 @@ Created interactive dashboard in Power BI including:
 
 ---
 
-## 📸 Screenshots
-(Add your screenshots in `/screenshots` folder)
-
----
-
 ## 🔍 Key Insights
-- Top State: __________
-- Top Product: __________
-- RTO %: __________
-- Most Valuable Customer: __________
+- Top State: Mumbai
+- Top Product: Shoes
+- RTO %: 33.33%
+- Most Valuable Customer: Rahul
 
 ---
 
@@ -114,5 +109,5 @@ This project helped in understanding real-world data analysis and improving busi
 ---
 
 ## 👤 Author
-- Name: __________
-- Role: Data Analyst (Beginner)
+- Name: Mohd Adil khan
+- Role: Data Analyst 
