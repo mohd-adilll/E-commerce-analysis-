@@ -73,7 +73,7 @@ File: [SQL Queries](SQL_queries.sql)
 - Profit calculation
 - Trend analysis
 
-File: [Python_Queries](pandas_anaylsis.py) 
+File: [Python_Queries](pandas_anaylsis.py) <br>
 File: [Before](beforePanda.csv) 
 File: [After](afterPanda.csv)
 
