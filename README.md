@@ -69,9 +69,9 @@ File: [SQL Queries](SQL_queries.sql)
 ---
 
 ## 🐍 Python (Pandas) Analysis
-- Data aggregation using groupby
-- Profit calculation
-- Trend analysis
+- check Duplicates and Drop
+- Fills null value 
+- Calculate profits and RTO loss
 
 File: [Python_Queries](pandas_anaylsis.py) <br>
 File: [Before](beforePanda.csv) 
