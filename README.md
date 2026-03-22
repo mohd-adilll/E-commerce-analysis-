@@ -1,7 +1,10 @@
 # 📊 E-commerce Data Analysis Project
 
 ## 🔹 Project Overview
-This project analyzes real e-commerce (dropshipping) data to understand sales performance, customer behavior, and business insights.
+This project analyzes real e-commerce data from my online store to find insights on sales, profit, and customer behavior.
+
+## 🛍 Store Preview
+Store: ([zefix](https://zefix.in/))
 
 ---
 
@@ -37,6 +40,17 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
   - RTO_Flag
   - customer_spend
 
+---
+
+## 🧹 Web site
+- Removed duplicates
+- Handled missing values
+- Fixed date format
+- Created new columns:
+  - Profit
+  - RTO_Flag
+  - customer_spend
+    
 ---
 
 ## 📊 Pivot Analysis
