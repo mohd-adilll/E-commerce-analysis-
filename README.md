@@ -52,7 +52,7 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
 ### 4. Top Customer Spend
 - Identify which customer spent the most overall
 
- #### (File: [Excel_pivot_analysis](pivot_analysis.xlsx) 
+ #### File: [Excel_pivot_analysis](pivot_analysis.xlsx) 
   <img src="pivot1.png" width="100"/> <img src="pivot2.png" width="100"/>  
   <img src="pivot3.png" width="100"/> <img src="pivot4.png" width="100"/>
 
@@ -64,7 +64,7 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
 - Repeat Customers  
 - Loss Orders 
 
-(File: [SQL Queries](SQL_queries.sql)
+File: [SQL Queries](SQL_queries.sql)
 
 ---
 
@@ -73,7 +73,9 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
 - Profit calculation
 - Trend analysis
 
-(File: `python/analysis.py`)
+File: [Python_Queries](pandas_anaylsis.py) 
+File: [Before](beforePanda.csv) 
+File: [After](afterPanda.csv)
 
 ---
 
