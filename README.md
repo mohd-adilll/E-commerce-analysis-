@@ -35,6 +35,7 @@ This project analyzes real e-commerce (dropshipping) data to understand sales pe
 - Created new columns:
   - Profit
   - RTO_Flag
+  - customer_spend
 
 ---
 
