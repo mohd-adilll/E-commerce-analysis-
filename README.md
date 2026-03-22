@@ -42,17 +42,6 @@ Store: ([zefix](https://zefix.in/))
 
 ---
 
-## 🧹 Web site
-- Removed duplicates
-- Handled missing values
-- Fixed date format
-- Created new columns:
-  - Profit
-  - RTO_Flag
-  - customer_spend
-    
----
-
 ## 📊 Pivot Analysis
 
 ### 1. Ad Spend Analysis
