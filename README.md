@@ -91,7 +91,7 @@ Created interactive dashboard in Power BI including:
 - Top Products
 - State-wise analysis
 
-(File: [Power BI](Dashboard.pbix)
+(File: [Power BI Dashboard](Dashboard.pbix)
 
 ---
 
