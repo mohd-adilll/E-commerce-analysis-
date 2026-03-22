@@ -1,8 +1,0 @@
-Order_ID,Date,Customer_ID,Product,Qty,Price,Cost,State,Ad_Spend,Status,customer_spend
-101,01-01-2026,C1,Watch,1,1200,700,Mumbai,200,Delivered,1200
-102,02-01-2026,C2,Shoes,1,NA,1200,Delhi,300,RTO,NA
-103,03-01-2026,C1,Watch,2,1200,700,Mumbai,200,Delivered,2400
-104,04-01-2026,C3,Bag,1,1500,900,Pune,250,Delivered,1500
-105,05-01-2026,C4,Watch,1,NA,700,Pune,200,RTO,NA
-106,06-01-2026,C2,Shoes,2,2000,1200,Delhi,250,Delivered,4000
-103,03-01-2026,C1,Watch,2,1200,700,Mumbai,200,Delivered,2400
