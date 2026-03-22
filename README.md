@@ -3,7 +3,7 @@
 ## 🔹 Project Overview
 This project analyzes real e-commerce data from my online store to find insights on sales, profit, and customer behavior.
 
-## 🛍 Store Preview
+### 🛍 Store Preview
 Store: ([zefix](https://zefix.in/))
 
 ---
